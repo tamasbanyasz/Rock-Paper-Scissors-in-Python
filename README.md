@@ -1,4 +1,4 @@
-Rock-Paper-Scissors in Python.
+# Rock-Paper-Scissors in Python.
 
 The 'Player' class contain the player name (Rock, Paper, Scissors), and how many times it won.
 I used inside the class Dunder methods to add number of the wins, name and wins number are equals.
